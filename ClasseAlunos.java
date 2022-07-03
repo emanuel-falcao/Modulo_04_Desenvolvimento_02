@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ClasseAlunos extends Alunos {
+public class ClasseAlunos {
     public static void main(String[] args) {
         String nome;
 
